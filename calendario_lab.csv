@@ -1,0 +1,639 @@
+fecha;descripcion;ambito;id_mun;mun
+01/01/2020;Año Nuevo;estatal;;
+06/01/2020;Día de Reyes;estatal;;
+19/03/2020;San José;autonómico;;
+09/04/2020;Jueves Santo;autonómico;;
+10/04/2020;Viernes Santo;estatal;;
+01/05/2020;Fiesta del Trabajo;estatal;;
+24/06/2020;San Juán;autonómico;;
+25/07/2020;Santiago Apóstol;autonómico;;
+15/08/2020;Asunción de la Virgen;estatal;;
+12/10/2020;Fiesta Nacional de España;estatal;;
+08/12/2020;Inmaculada Concepción;estatal;;
+25/12/2020;Navidad;estatal;;
+25/02/2020;Martes de Entroido;Local;15001;Abegondo
+29/06/2020;festa de San Pedro;Local;15001;Abegondo
+25/02/2020;Martes de Entroido;Local;15002;Ames
+21/05/2020;festa da Ascensión;Local;15002;Ames
+25/02/2020;Martes de Entroido;Local;15003;Aranga
+10/08/2020;festa de San Lourenzo;Local;15003;Aranga
+26/02/2020;Mércores de Cinza;Local;15004;Ares
+02/06/2020;Voto de Chanteiro;Local;15004;Ares
+25/02/2020;Martes de Entroido;Local;15005;Arteixo
+16/09/2020;festa de Santa Eufemia;Local;15005;Arteixo
+13/04/2020;Luns de Pascua;Local;15006;Arzúa
+16/07/2020;festa da Virxe do Carme;Local;15006;Arzúa
+22/01/2020;festa de San Vicente;Local;15007;Baña, A
+09/09/2020;festa da Virxe das Dores;Local;15007;Baña, A
+25/02/2020;Martes de Entroido;Local;15008;Bergondo
+17/08/2020;festa local de Bergondo;Local;15008;Bergondo
+25/02/2020;Martes de Entroido;Local;15009;Betanzos
+18/08/2020;festa local de Betanzos;Local;15009;Betanzos
+25/02/2020;Martes de Entroido;Local;15010;Boimorto
+07/09/2020;festas do Rosario;Local;15010;Boimorto
+16/07/2020;festa da Virxe do Carme;Local;15011;Boiro
+31/08/2020;festa de San Ramón;Local;15011;Boiro
+22/01/2020;festa de San Vicente;Local;15012;Boqueixón
+21/05/2020;festa da Ascensión;Local;15012;Boqueixón
+13/04/2020;Luns de Pascua;Local;15013;Brión
+21/05/2020;festa da Ascensión;Local;15013;Brión
+25/02/2020;Martes de Entroido;Local;15014;Cabana de Bergantiños
+01/08/2020;festa de San Fins;Local;15014;Cabana de Bergantiños
+25/02/2020;Martes de Entroido;Local;15015;Cabanas
+30/11/2020;festa de Santo André;Local;15015;Cabanas
+23/04/2020;Día de San Xurxo;Local;15016;Camariñas
+16/07/2020;Día da Virxe do Carme;Local;15016;Camariñas
+25/02/2020;Martes de Entroido;Local;15017;Cambre
+17/08/2020;festa local de Cambre;Local;15017;Cambre
+25/02/2020;Martes de Entroido;Local;15018;Capela, A
+05/08/2020;mércores festas patronais;Local;15018;Capela, A
+25/02/2020;Martes de Entroido;Local;15019;Carballo
+25/06/2020;festas patronais de San Xoán Bautista;Local;15019;Carballo
+20/03/2020;festa local de Carnota;Local;15020;Carnota
+07/12/2020;festa local de Carnota;Local;15020;Carnota
+25/02/2020;Martes de Entroido;Local;15021;Carral
+08/09/2020;festa da Virxe do Socorro;Local;15021;Carral
+25/02/2020;Martes de Entroido;Local;15022;Cedeira
+30/10/2020;festa local de Cedeira;Local;15022;Cedeira
+25/02/2020;Martes de Entroido;Local;15023;Cee
+16/06/2020;festa de San Adrián;Local;15023;Cee
+25/02/2020;Martes de Entroido;Local;15024;Cerceda
+20/03/2020;festa local de Cerceda;Local;15024;Cerceda
+25/02/2020;Martes de Entroido;Local;15025;Cerdido
+06/07/2020;festa local de Cerdido;Local;15025;Cerdido
+07/01/2020;festa de San Xulián;Local;15027;Coirós
+25/02/2020;Martes de Entroido;Local;15027;Coirós
+29/06/2020;festa de San Pedro;Local;15028;Corcubión
+16/07/2020;festa do Carme;Local;15028;Corcubión
+25/02/2020;Martes de Entroido;Local;15029;Coristanco
+11/11/2020;festa de San Martiño de Oca;Local;15029;Coristanco
+25/02/2020;Martes de Entroido;Local;15030;Coruña, A
+07/10/2020;festa da Virxe do Rosario;Local;15030;Coruña, A
+07/01/2020;festa local de Culleredo;Local;15031;Culleredo
+25/02/2020;Martes de Entroido;Local;15031;Culleredo
+25/02/2020;Martes de Entroido;Local;15032;Curtis
+08/09/2020;Día da Virxe dos Remedios;Local;15032;Curtis
+13/04/2020;festa local de Dodro;Local;15033;Dodro
+14/09/2020;festa local de Dodro;Local;15033;Dodro
+29/06/2020;festa de San Pedro de Buxantes;Local;15034;Dumbría
+10/12/2020;festa de Santa Baia de Dumbría;Local;15034;Dumbría
+26/02/2020;Mércores de Cinza;Local;15035;Fene
+06/08/2020;festa de San Salvador;Local;15035;Fene
+07/01/2020;festa de San Xiao;Local;15036;Ferrol
+13/04/2020;festa da Nosa Señora de Chamorro;Local;15036;Ferrol
+13/04/2020;Luns de Pascua;Local;15037;Fisterra
+08/09/2020;festa local de Fisterra;Local;15037;Fisterra
+25/02/2020;Martes de Entroido;Local;15038;Frades
+29/09/2020;festa de San Miguel;Local;15038;Frades
+25/02/2020;Martes de Entroido;Local;15039;Irixoa
+10/08/2020;festa de San Lourenzo;Local;15039;Irixoa
+21/07/2020;festa de Santa Cruz da Rosa;Local;15040;Laxe
+17/08/2020;festa da Virxe do Carme;Local;15040;Laxe
+25/02/2020;Martes de Entroido;Local;15041;Laracha, A
+08/09/2020;festa local da Laracha;Local;15041;Laracha, A
+10/08/2020;festa de San Lourenzo;Local;15042;Lousame
+02/10/2020;festa de San Roquiño;Local;15042;Lousame
+25/02/2020;Martes de Entroido;Local;15043;Malpica de Bergantiños
+21/08/2020;festas do Mar;Local;15043;Malpica de Bergantiños
+10/08/2020;festa de Santa Rosa;Local;15044;Mañón
+07/12/2020;festa do Marisco;Local;15044;Mañón
+25/02/2020;Martes de Entroido;Local;15045;Mazaricos
+25/06/2020;festa local de Mazaricos;Local;15045;Mazaricos
+29/06/2020;Día de San Pedro;Local;15046;Melide
+16/07/2020;Día do Carme;Local;15046;Melide
+25/02/2020;Martes de Entroido;Local;15047;Mesía
+15/05/2020;festa de San Cidre;Local;15047;Mesía
+29/06/2020;festa de San Pedro;Local;15048;Miño
+31/08/2020;festa de San Ramón;Local;15048;Miño
+25/02/2020;Martes de Entroido;Local;15049;Moeche
+23/04/2020;festa de San Xurxo;Local;15049;Moeche
+24/02/2020;Luns de Entroido;Local;15050;Monfero
+25/02/2020;Martes de Entroido;Local;15050;Monfero
+07/01/2020;festa local de Mugardos;Local;15051;Mugardos
+02/06/2020;Voto de Chanteiro;Local;15051;Mugardos
+13/04/2020;Luns de Pascua;Local;15052;Muxía
+14/09/2020;Luns da Barca;Local;15052;Muxía
+29/06/2020;festa de San Pedro;Local;15053;Muros
+16/07/2020;festa da Virxe do Carme;Local;15053;Muros
+25/02/2020;Martes de Entroido;Local;15054;Narón
+23/11/2020;Día de Narón;Local;15054;Narón
+25/02/2020;Martes de Entroido;Local;15055;Neda
+08/09/2020;festa local de Neda;Local;15055;Neda
+10/07/2020;festa de San Cristovo;Local;15056;Negreira
+21/09/2020;festa de Santa Margarita;Local;15056;Negreira
+16/07/2020;festa do Carme;Local;15057;Noia
+24/08/2020;festa de San Bartolomeu;Local;15057;Noia
+25/02/2020;Martes de Entroido;Local;15058;Oleiros
+13/04/2020;Luns de Pascua;Local;15058;Oleiros
+25/02/2020;Martes de Entroido;Local;15059;Ordes
+24/09/2020;festa local de Ordes;Local;15059;Ordes
+25/02/2020;Martes de Entroido;Local;15060;Oroso
+16/09/2020;festa de Santa Eufemia;Local;15060;Oroso
+25/02/2020;Martes de Entroido;Local;15061;Ortigueira
+29/07/2020;Día de Santa Marta;Local;15061;Ortigueira
+26/02/2020;Mércores de Cinza;Local;15062;Outes
+29/09/2020;festividade de San Campio;Local;15062;Outes
+25/02/2020;Martes de Entroido;Local;15064;Paderne
+18/08/2020;festa local de Paderne;Local;15064;Paderne
+13/04/2020;Luns de Pascua;Local;15065;Padrón
+06/05/2020;festa de San Xoán do Raio;Local;15065;Padrón
+29/06/2020;festa de San Pedro;Local;15066;Pino, O
+22/07/2020;festa da Madalena;Local;15066;Pino, O
+17/08/2020;Luns do Carme dos Pincheiros;Local;15067;Pobra do Caramiñal, A
+21/09/2020;Luns do Nazareno;Local;15067;Pobra do Caramiñal, A
+14/09/2020;festa local de Ponteceso;Local;15068;Ponteceso
+15/09/2020;festa local de Ponteceso;Local;15068;Ponteceso
+08/09/2020;festa das Peras;Local;15069;Pontedeume
+10/09/2020;festa das Peras;Local;15069;Pontedeume
+25/02/2020;Martes de Entroido;Local;15070;Pontes de García Rodríguez, As
+20/07/2020;festa do Carme;Local;15070;Pontes de García Rodríguez, As
+24/02/2020;Luns de Entroido;Local;15071;Porto do Son
+09/09/2020;festa da Nosa Señora de Loreto;Local;15071;Porto do Son
+16/07/2020;Día do Carme;Local;15072;Rianxo
+18/09/2020;Venres de Guadalupe;Local;15072;Rianxo
+25/02/2020;Martes de Entroido;Local;15073;Ribeira
+24/07/2020;festa da Dorna;Local;15073;Ribeira
+13/04/2020;Luns de Pascua;Local;15074;Rois
+15/05/2020;festa de San Isidro Labrador;Local;15074;Rois
+25/02/2020;Martes de Entroido;Local;15075;Sada
+16/07/2020;festa da Virxe do Carme;Local;15075;Sada
+25/02/2020;Martes de Entroido;Local;15076;San Sadurniño
+02/07/2020;festa de Santa Isabel;Local;15076;San Sadurniño
+29/06/2020;festa de San Pedro;Local;15077;Santa Comba
+30/06/2020;festa de San Antonio;Local;15077;Santa Comba
+25/02/2020;Martes de Entroido;Local;15078;Santiago de Compostela
+21/05/2020;festa da Ascensión;Local;15078;Santiago de Compostela
+13/04/2020;Luns de Pascua;Local;15079;Santiso
+14/09/2020;festa de Santa Cruz;Local;15079;Santiso
+25/02/2020;Martes de Entroido;Local;15080;Sobrado
+29/06/2020;festa de San Pedro;Local;15080;Sobrado
+25/02/2020;Martes de Entroido;Local;15081;Somozas, As
+27/07/2020;festa local das Somozas;Local;15081;Somozas, As
+21/05/2020;festa da Ascensión;Local;15082;Teo
+11/11/2020;festa de San Martiño;Local;15082;Teo
+15/05/2020;festa de San Cidre;Local;15083;Toques
+02/09/2020;festa de San Antolín;Local;15083;Toques
+25/02/2020;Martes de Entroido;Local;15084;Tordoia
+15/05/2020;festa de San Isidro Labrador;Local;15084;Tordoia
+25/02/2020;Martes de Entroido;Local;15085;Touro
+13/04/2020;Luns de Pascua;Local;15085;Touro
+25/02/2020;Martes de Entroido;Local;15086;Trazo
+21/09/2020;festa de San Mateo;Local;15086;Trazo
+25/02/2020;Martes de Entroido;Local;15087;Valdoviño
+17/08/2020;Día de San Mamede;Local;15087;Valdoviño
+25/02/2020;Martes de Entroido;Local;15088;Val do Dubra
+07/08/2020;festa do Emigrante;Local;15088;Val do Dubra
+21/09/2020;festa do Patio;Local;15089;Vedra
+10/12/2020;festa de Santa Baia;Local;15089;Vedra
+25/02/2020;Martes de Entroido;Local;15090;Vilasantar
+29/06/2020;festa de San Pedro;Local;15090;Vilasantar
+24/02/2020;Luns de Entroido;Local;15091;Vilarmaior
+25/02/2020;Martes de Entroido;Local;15091;Vilarmaior
+22/01/2020;festa de San Vicenzo;Local;15092;Vimianzo
+10/08/2020;festas de Verán;Local;15092;Vimianzo
+10/07/2020;festa de San Cristovo;Local;15093;Zas
+16/07/2020;festa do Carme;Local;15093;Zas
+16/07/2020;festa do Carme;Local;15901;Cariño
+24/08/2020;festa de San Bartolomeu;Local;15901;Cariño
+25/02/2020;Martes de Entroido;Local;15902;Oza-Cesuras
+15/05/2020;festa de San Isidro;Local;15902;Oza-Cesuras
+25/02/2020;Martes de Entroido;Local;27001;Abadín
+28/09/2020;Luns de San Cosme da Montaña;Local;27001;Abadín
+25/02/2020;Martes de Entroido;Local;27002;Alfoz
+03/08/2020;festa dos Choferes;Local;27002;Alfoz
+25/02/2020;Martes de Entroido;Local;27003;Antas de Ulla
+08/09/2020;Virxe dos Remedios;Local;27003;Antas de Ulla
+25/02/2020;Martes de Entroido;Local;27004;Baleira
+12/08/2020;San Cristovo;Local;27004;Baleira
+25/02/2020;Martes de Entroido;Local;27005;Barreiros
+24/08/2020;San Bartolo;Local;27005;Barreiros
+25/06/2020;San Xoán;Local;27006;Becerreá
+14/09/2020;Santo Ecce Homo;Local;27006;Becerreá
+25/02/2020;Martes de Entroido;Local;27007;Begonte
+29/06/2020;San Pedro;Local;27007;Begonte
+01/09/2020;San Xil;Local;27008;Bóveda
+15/09/2020;Divino Ecce Homo;Local;27008;Bóveda
+24/07/2020;festa local;Local;27009;Carballedo
+14/08/2020;festa local;Local;27009;Carballedo
+25/02/2020;Martes de Entroido;Local;27010;Castro de Rei
+10/08/2020;luns seguinte ao día de San Roque e Doce Nome de María en Castro de Ribeiras de Lea;Local;27010;Castro de Rei
+25/02/2020;Martes de Entroido;Local;27011;Castroverde
+24/07/2020;Santiago Apóstolo;Local;27011;Castroverde
+25/02/2020;Martes de Entroido;Local;27012;Cervantes
+20/05/2020;Nosa Señora dos Remedios;Local;27012;Cervantes
+25/02/2020;Martes de Entroido;Local;27013;Cervo
+16/07/2020;Nosa Señora do Carme;Local;27013;Cervo
+25/02/2020;Martes de Entroido;Local;27014;Corgo, O
+05/10/2020;San Froilán;Local;27014;Corgo, O
+25/02/2020;Martes de Entroido;Local;27015;Cospeito
+08/09/2020;Nosa Señora da Virxe do Monte;Local;27015;Cospeito
+25/08/2020;festa da Empanada;Local;27016;Chantada
+08/09/2020;Nosa Señora do Faro;Local;27016;Chantada
+19/08/2020;festas patronais de Folgoso;Local;27017;Folgoso do Courel
+07/12/2020;Ponte da Constitución;Local;27017;Folgoso do Courel
+25/02/2020;Martes de Entroido;Local;27018;Fonsagrada, A
+11/09/2020;festas patronais;Local;27018;Fonsagrada, A
+16/07/2020;O Carme;Local;27019;Foz
+10/08/2020;San Lourenzo;Local;27019;Foz
+25/02/2020;Martes de Entroido;Local;27020;Friol
+13/07/2020;Luns de Santa Isabel;Local;27020;Friol
+25/02/2020;Martes de Entroido;Local;27021;Xermade
+10/08/2020;Luns de Santa María;Local;27021;Xermade
+25/02/2020;Martes de Entroido;Local;27022;Guitiriz
+03/08/2020;despois de Pardiñas;Local;27022;Guitiriz
+25/02/2020;Martes de Entroido;Local;27023;Guntín
+06/07/2020;luns das festas;Local;27023;Guntín
+25/02/2020;Martes de Entroido;Local;27024;Incio, O
+15/05/2020;San Eufrasio;Local;27024;Incio, O
+25/02/2020;Martes de Entroido;Local;27025;Xove
+31/08/2020;festa patronal de Xove;Local;27025;Xove
+25/02/2020;Martes de Entroido;Local;27026;Láncara
+24/08/2020;Luns de San Roque;Local;27026;Láncara
+25/02/2020;Martes de Entroido;Local;27027;Lourenzá
+31/08/2020;Luns do Conde Santo;Local;27027;Lourenzá
+25/02/2020;Martes de Entroido;Local;27028;Lugo
+05/10/2020;San Froilán;Local;27028;Lugo
+25/02/2020;Martes de Entroido;Local;27029;Meira
+17/08/2020;Xira;Local;27029;Meira
+14/09/2020;Luns dos Remedios;Local;27030;Mondoñedo
+19/10/2020;As San Lucas;Local;27030;Mondoñedo
+14/04/2020;Martes de Pascua;Local;27031;Monforte de Lemos
+13/06/2020;San Antonio;Local;27031;Monforte de Lemos
+10/07/2020;San Cristovo;Local;27032;Monterroso
+29/09/2020;San Miguel;Local;27032;Monterroso
+25/02/2020;Martes de Entroido;Local;27033;Muras
+29/06/2020;San Pedro de Muras;Local;27033;Muras
+25/02/2020;Martes de Entroido;Local;27034;Navia de Suarna
+21/09/2020;Virxe das Dores;Local;27034;Navia de Suarna
+25/02/2020;Martes de Entroido;Local;27035;Negueira de Muñiz
+17/08/2020;Virxe da Veiga;Local;27035;Negueira de Muñiz
+25/02/2020;Martes de Entroido;Local;27037;Nogais, As
+31/07/2020;festa do Emigrante;Local;27037;Nogais, As
+13/05/2020;Nosa Señora de Fátima;Local;27038;Ourol
+24/08/2020;Luns de Naseiro;Local;27038;Ourol
+25/02/2020;Martes de Entroido;Local;27039;Outeiro de Rei
+06/07/2020;Luns de Santa Isabel;Local;27039;Outeiro de Rei
+28/01/2020;San Tirso;Local;27040;Palas de Rei
+14/09/2020;Ecce Homo;Local;27040;Palas de Rei
+25/02/2020;Martes de Entroido;Local;27041;Pantón
+24/08/2020;festas locais;Local;27041;Pantón
+15/05/2020;San Isidro;Local;27042;Paradela
+29/09/2020;San Miguel;Local;27042;Paradela
+25/02/2020;Martes de Entroido;Local;27043;Páramo, O
+12/06/2020;festas da Primavera;Local;27043;Páramo, O
+25/02/2020;Martes de Entroido;Local;27044;Pastoriza, A
+19/10/2020;San Lucas;Local;27044;Pastoriza, A
+25/02/2020;Martes de Entroido;Local;27045;Pedrafita do Cebreiro
+09/09/2020;Santa María A Real do Cebreiro;Local;27045;Pedrafita do Cebreiro
+25/02/2020;Martes de Entroido;Local;27046;Pol
+24/08/2020;festa do Emigrante;Local;27046;Pol
+15/06/2020;luns seguinte ao Corpus;Local;27047;Pobra do Brollón, A
+27/08/2020;San Vitorio;Local;27047;Pobra do Brollón, A
+25/02/2020;Martes de Entroido;Local;27048;Pontenova, A
+20/03/2020;ponte de San Xosé;Local;27048;Pontenova, A
+25/02/2020;Martes de Entroido;Local;27049;Portomarín
+07/09/2020;Santo Cristo das Vitorias;Local;27049;Portomarín
+13/04/2020;Luns de Pascua;Local;27050;Quiroga
+11/11/2020;San Martiño;Local;27050;Quiroga
+25/02/2020;Martes de Entroido;Local;27051;Ribadeo
+08/09/2020;patroa Santa María do Campo;Local;27051;Ribadeo
+17/08/2020;festas patronais de San Roque;Local;27052;Ribas de Sil
+30/10/2020;San Clodio;Local;27052;Ribas de Sil
+25/02/2020;Martes de Entroido;Local;27053;Ribeira de Piquín
+23/04/2020;San Xurxo;Local;27053;Ribeira de Piquín
+25/02/2020;Martes de Entroido;Local;27054;Riotorto
+29/06/2020;San Pedro;Local;27054;Riotorto
+09/01/2020;San Xulián e Santa Basilisa;Local;27055;Samos
+13/07/2020;Luns de San Benito;Local;27055;Samos
+25/02/2020;Martes de Entroido;Local;27056;Rábade
+14/08/2020;Nosa Señora da Asunción;Local;27056;Rábade
+25/06/2020;festa local;Local;27057;Sarria
+08/09/2020;festa local;Local;27057;Sarria
+25/02/2020;Martes de Entroido;Local;27058;Saviñao, O
+04/08/2020;festas locais de Escairón;Local;27058;Saviñao, O
+08/09/2020;festivo local;Local;27059;Sober
+21/09/2020;festivo local;Local;27059;Sober
+25/02/2020;Martes de Entroido;Local;27060;Taboada
+10/08/2020;festa da vila;Local;27060;Taboada
+25/02/2020;Martes de Entroido;Local;27061;Trabada
+14/08/2020;festivo local;Local;27061;Trabada
+25/02/2020;Martes de Entroido;Local;27062;Triacastela
+17/08/2020;San Mamede;Local;27062;Triacastela
+25/02/2020;Martes de Entroido;Local;27063;Valadouro, O
+09/09/2020;festivo local;Local;27063;Valadouro, O
+25/02/2020;Martes de Entroido;Local;27064;Vicedo, O
+03/08/2020;Santo Estevo;Local;27064;Vicedo, O
+31/08/2020;San Ramón;Local;27065;Vilalba
+01/09/2020;Santa María;Local;27065;Vilalba
+25/02/2020;Martes de Entroido;Local;27066;Viveiro
+24/08/2020;festa local;Local;27066;Viveiro
+27/08/2020;festas de San Vitorio;Local;27901;Baralla
+28/08/2020;festas de San Vitorio;Local;27901;Baralla
+25/02/2020;Martes de Entroido;Local;27902;Burela
+08/06/2020;festivo local;Local;27902;Burela
+25/02/2020;Martes de Entroido;Local;32001;Allariz
+12/06/2020;Venres do Boi;Local;32001;Allariz
+25/02/2020;Martes de Entroido;Local;32002;Amoeiro
+11/11/2020;San Martiño;Local;32002;Amoeiro
+22/05/2020;Santa Rita;Local;32003;Arnoia, A
+31/07/2020;festa do Pemento;Local;32003;Arnoia, A
+25/02/2020;Martes de Entroido;Local;32004;Avión
+03/08/2020;Luns de San Roque;Local;32004;Avión
+25/02/2020;Martes de Entroido;Local;32005;Baltar
+21/05/2020;día da Ascensión;Local;32005;Baltar
+25/02/2020;Martes de Entroido;Local;32006;Bande
+24/08/2020;festas de San Roque;Local;32006;Bande
+06/08/2020;San Salvador;Local;32007;Baños de Molgas
+08/09/2020;Nosa Sra. dos Milagres;Local;32007;Baños de Molgas
+25/02/2020;Martes de Entroido;Local;32008;Barbadás
+11/11/2020;San Martiño;Local;32008;Barbadás
+22/05/2020;Santa Rita;Local;32009;Barco de Valdeorras, O
+14/09/2020;Día do Cristo;Local;32009;Barco de Valdeorras, O
+03/02/2020;San Brais;Local;32010;Beade
+02/07/2020;Santa Isabel;Local;32010;Beade
+04/08/2020;Santo Domingo;Local;32011;Beariz
+11/11/2020;San Martiño;Local;32011;Beariz
+25/02/2020;Martes de Entroido;Local;32012;Blancos, Os
+15/09/2020;Virxe das Dores;Local;32012;Blancos, Os
+25/02/2020;Martes de Entroido;Local;32013;Boborás
+24/08/2020;festa de San Bartolomeu;Local;32013;Boborás
+25/02/2020;Martes de Entroido;Local;32014;Bola, A
+04/05/2020;Santa Cruz;Local;32014;Bola, A
+17/08/2020;;Local;32015;Bolo, O
+14/12/2020;;Local;32015;Bolo, O
+25/02/2020;Martes de Entroido;Local;32016;Calvos de Randín
+03/08/2020;día seguinte á Festa de Calvos;Local;32016;Calvos de Randín
+25/02/2020;Martes de Entroido;Local;32017;Carballeda de Valdeorras
+20/04/2020;Nª Sra. da Encarnación;Local;32017;Carballeda de Valdeorras
+25/02/2020;Martes de Entroido;Local;32018;Carballeda de Avia
+01/06/2020;Luns de Lodairo;Local;32018;Carballeda de Avia
+25/02/2020;Martes de Entroido;Local;32019;Carballiño, O
+17/09/2020;San Cibrao;Local;32019;Carballiño, O
+25/02/2020;Martes de Entroido;Local;32020;Cartelle
+01/06/2020;Virxe das Marabillas;Local;32020;Cartelle
+17/01/2020;San Antón;Local;32021;Castrelo do Val
+26/02/2020;Mércores de Cinza;Local;32021;Castrelo do Val
+25/02/2020;Martes de Entroido;Local;32022;Castrelo de Miño
+05/08/2020;festividade da Virxe das Neves;Local;32022;Castrelo de Miño
+20/01/2020;Día do San Sebastián;Local;32023;Castro Caldelas
+08/09/2020;Nosa Señora dos Remedios;Local;32023;Castro Caldelas
+15/05/2020;festividade de San Torcuato;Local;32024;Celanova
+15/09/2020;Virxe do Cristal;Local;32024;Celanova
+25/02/2020;Martes de Entroido;Local;32025;Cenlle
+11/11/2020;San Martiño;Local;32025;Cenlle
+25/02/2020;Martes de Entroido;Local;32026;Coles
+11/11/2020;San Martiño;Local;32026;Coles
+10/07/2020;;Local;32027;Cortegada
+24/07/2020;;Local;32027;Cortegada
+26/02/2020;Mércores de Cinza;Local;32028;Cualedro
+16/07/2020;festa do Carme;Local;32028;Cualedro
+25/02/2020;Martes de Entroido;Local;32029;Chandrexa de Queixa
+07/09/2020;luns posterior á festa do Cordeiro;Local;32029;Chandrexa de Queixa
+21/02/2020;Venres de Entroido;Local;32030;Entrimo
+25/02/2020;Martes de Entroido;Local;32030;Entrimo
+25/02/2020;Martes de Entroido;Local;32031;Esgos
+11/11/2020;San Martiño;Local;32031;Esgos
+25/02/2020;Martes de Entroido;Local;32032;Xinzo de Limia
+17/07/2020;Santa Mariña;Local;32032;Xinzo de Limia
+20/03/2020;;Local;32033;Gomesende
+24/07/2020;;Local;32033;Gomesende
+25/02/2020;festividade do Beato Sebastián de Aparicio;Local;32034;Gudiña, A
+24/08/2020;San Bartolomeu;Local;32034;Gudiña, A
+25/02/2020;Martes de Entroido;Local;32035;Irixo, O
+13/05/2020;Virxe de Fátima;Local;32035;Irixo, O
+29/04/2020;San Pedro;Local;32036;Xunqueira de Ambía
+17/08/2020;San Roque;Local;32036;Xunqueira de Ambía
+25/02/2020;Martes de Entroido;Local;32037;Xunqueira de Espadanedo
+06/07/2020;Santa Isabel;Local;32037;Xunqueira de Espadanedo
+17/07/2020;Santa Mariña;Local;32038;Larouco
+08/09/2020;Santa María dos Remedios;Local;32038;Larouco
+26/02/2020;Mércores de Cinza;Local;32039;Laza
+04/05/2020;día seguinte ao Santo Cristo;Local;32039;Laza
+29/06/2020;San Pedro;Local;32040;Leiro
+11/11/2020;San Martiño;Local;32040;Leiro
+22/01/2020;San Vicente;Local;32041;Lobeira
+08/09/2020;Viso Pequeno;Local;32041;Lobeira
+25/02/2020;Martes de Entroido;Local;32042;Lobios
+12/08/2020;;Local;32042;Lobios
+25/02/2020;Martes de Entroido;Local;32043;Maceda
+11/08/2020;festas patronais de Maceda;Local;32043;Maceda
+25/02/2020;Martes de Entroido;Local;32044;Manzaneda
+10/08/2020;Virxe das Neves;Local;32044;Manzaneda
+25/02/2020;Martes de Entroido;Local;32045;Maside
+27/08/2020;San Vitorio;Local;32045;Maside
+25/02/2020;Martes de Entroido;Local;32046;Melón
+11/06/2020;Corpus Christi;Local;32046;Melón
+25/02/2020;Martes de Entroido;Local;32047;Merca, A
+08/06/2020;Espírito Santo;Local;32047;Merca, A
+05/08/2020;Festa da Virxe das Neves;Local;32048;Mezquita, A
+11/11/2020;San Martiño;Local;32048;Mezquita, A
+25/02/2020;Martes de Entroido;Local;32049;Montederramo
+14/08/2020;San Roque;Local;32049;Montederramo
+26/02/2020;Mércores de Cinza;Local;32050;Monterrei
+01/06/2020;festa da Caridade;Local;32050;Monterrei
+25/02/2020;Martes de Entroido;Local;32051;Muíños
+11/11/2020;San Martiño;Local;32051;Muíños
+25/02/2020;Martes de Entroido;Local;32052;Nogueira de Ramuín
+11/11/2020;San Martiño;Local;32052;Nogueira de Ramuín
+26/02/2020;Mércores de Cinza;Local;32053;Oímbra
+08/09/2020;festividade dos Remedios;Local;32053;Oímbra
+25/02/2020;Martes de Entroido;Local;32054;Ourense
+11/11/2020;San Martiño;Local;32054;Ourense
+25/02/2020;Martes de Entroido;Local;32055;Paderne de Allariz
+11/11/2020;San Martiño;Local;32055;Paderne de Allariz
+29/06/2020;San Pedro;Local;32056;Padrenda
+04/09/2020;Virxe do Hospital;Local;32056;Padrenda
+25/02/2020;Martes de Entroido;Local;32057;Parada de Sil
+31/08/2020;San Ramón;Local;32057;Parada de Sil
+25/02/2020;Martes de Entroido;Local;32058;Pereiro de Aguiar, O
+11/11/2020;San Martiño;Local;32058;Pereiro de Aguiar, O
+25/02/2020;Martes de Entroido;Local;32059;Peroxa, A
+11/11/2020;San Martiño;Local;32059;Peroxa, A
+17/01/2020;;Local;32060;Petín
+24/07/2020;;Local;32060;Petín
+25/02/2020;Martes de Entroido;Local;32061;Piñor
+11/11/2020;San Martiño;Local;32061;Piñor
+25/02/2020;Martes de Entroido;Local;32062;Porqueira
+16/07/2020;Virxe do Carme;Local;32062;Porqueira
+24/08/2020;;Local;32063;Pobra de Trives, A
+14/09/2020;;Local;32063;Pobra de Trives, A
+25/02/2020;Martes de Entroido;Local;32064;Pontedeva
+22/07/2020;Sta. Mª Madalena;Local;32064;Pontedeva
+25/02/2020;Martes de Entroido;Local;32065;Punxín
+20/04/2020;San Vintila;Local;32065;Punxín
+25/02/2020;Martes de Entroido;Local;32066;Quintela de Leirado
+08/09/2020;Virxe dos Remedios;Local;32066;Quintela de Leirado
+25/02/2020;Martes de Entroido;Local;32067;Rairiz de Veiga
+24/09/2020;Virxe da Mercede;Local;32067;Rairiz de Veiga
+25/02/2020;Martes de Entroido;Local;32068;Ramirás
+07/12/2020;;Local;32068;Ramirás
+25/02/2020;Martes de Entroido;Local;32069;Ribadavia
+08/09/2020;;Local;32069;Ribadavia
+25/02/2020;Martes de Entroido;Local;32070;San Xoán de Río
+07/08/2020;festa de Verán;Local;32070;San Xoán de Río
+21/02/2020;Venres de Entroido;Local;32071;Riós
+15/09/2020;Nosa Sra. dos Dolores;Local;32071;Riós
+10/08/2020;Festa da Estación;Local;32072;Rúa, A
+24/08/2020;San Roque;Local;32072;Rúa, A
+21/05/2020;festividade da Ascensión;Local;32073;Rubiá
+24/08/2020;San Bartolomeu;Local;32073;Rubiá
+25/02/2020;Martes de Entroido;Local;32074;San Amaro
+15/07/2020;San Amaro;Local;32074;San Amaro
+25/02/2020;Martes de Entroido;Local;32075;San Cibrao das Viñas
+11/11/2020;San Martiño;Local;32075;San Cibrao das Viñas
+10/07/2020;San Cristovo;Local;32076;San Cristovo de Cea
+21/09/2020;festas da Saleta;Local;32076;San Cristovo de Cea
+25/02/2020;Martes de Entroido;Local;32077;Sandiás
+13/04/2020;Luns de Pascua;Local;32077;Sandiás
+24/02/2020;Luns de Entroido;Local;32078;Sarreaus
+17/08/2020;Día da Beata Dorinda;Local;32078;Sarreaus
+25/02/2020;Martes de Entroido;Local;32079;Taboadela
+11/11/2020;San Martiño;Local;32079;Taboadela
+25/02/2020;Martes de Entroido;Local;32080;Teixeira, A
+25/11/2020;Santa Catalina;Local;32080;Teixeira, A
+25/02/2020;Martes de Entroido;Local;32081;Toén
+11/11/2020;San Martiño;Local;32081;Toén
+25/02/2020;Martes de Entroido;Local;32082;Trasmiras
+13/04/2020;Luns de Pascua;Local;32082;Trasmiras
+25/02/2020;Martes de Entroido;Local;32083;Veiga, A
+08/09/2020;;Local;32083;Veiga, A
+25/02/2020;Martes de Entroido;Local;32084;Verea
+07/12/2020;;Local;32084;Verea
+17/01/2020;San Antón;Local;32085;Verín
+26/02/2020;Mércores de Cinza;Local;32085;Verín
+26/02/2020;Mércores de Cinza;Local;32086;Viana do Bolo
+17/08/2020;festas de San Roque;Local;32086;Viana do Bolo
+25/02/2020;Martes de Entroido;Local;32087;Vilamarín
+11/11/2020;San Martiño;Local;32087;Vilamarín
+23/04/2020;San Xurxo;Local;32088;Vilamartín de Valdeorras
+22/07/2020;Santa María Madalena;Local;32088;Vilamartín de Valdeorras
+25/02/2020;Martes de Entroido;Local;32089;Vilar de Barrio
+08/09/2020;;Local;32089;Vilar de Barrio
+13/04/2020;Luns de Pascua;Local;32090;Vilar de Santos
+05/08/2020;Virxe das Neves;Local;32090;Vilar de Santos
+26/02/2020;Mércores de Cinza;Local;32091;Vilardevós
+17/08/2020;;Local;32091;Vilardevós
+24/02/2020;Luns de Entroido;Local;32092;Vilariño de Conso
+11/11/2020;San Martiño;Local;32092;Vilariño de Conso
+03/02/2020;San Brais;Local;36001;Arbo
+29/06/2020;San Pedro;Local;36001;Arbo
+19/06/2020;festa do Viño;Local;36002;Barro
+02/10/2020;Romaría de San Breixo;Local;36002;Barro
+28/02/2020;festa da Arribada;Local;36003;Baiona
+25/09/2020;véspera de San Cosme e San Damián;Local;36003;Baiona
+16/07/2020;festividade da Nosa Señora do Carme;Local;36004;Bueu
+11/11/2020;festividade de San Martiño;Local;36004;Bueu
+20/03/2020;;Local;36005;Caldas de Reis
+24/07/2020;;Local;36005;Caldas de Reis
+11/07/2020;San Benito;Local;36006;Cambados
+18/07/2020;Santa Mariña;Local;36006;Cambados
+28/09/2020;San Miguel;Local;36007;Campo Lameiro
+11/11/2020;San Martiño;Local;36007;Campo Lameiro
+03/04/2020;Venres das Dores;Local;36008;Cangas
+31/08/2020;Luns do Cristo;Local;36008;Cangas
+01/06/2020;Romaría das Pascuillas;Local;36009;Cañiza, A
+15/10/2020;Santa Teresa;Local;36009;Cañiza, A
+13/07/2020;;Local;36010;Catoira
+10/08/2020;;Local;36010;Catoira
+20/03/2020;;Local;36013;Covelo
+01/06/2020;Festa das Pascuillas;Local;36013;Covelo
+26/06/2020;San Paio;Local;36014;Crecente
+29/06/2020;San Pedro;Local;36014;Crecente
+25/02/2020;Martes de Entroido;Local;36015;Cuntis
+18/08/2020;San Antón;Local;36015;Cuntis
+20/07/2020;;Local;36016;Dozón
+06/08/2020;;Local;36016;Dozón
+25/02/2020;Martes de Entroido;Local;36017;Estrada, A
+26/06/2020;festas patronais de San Paio;Local;36017;Estrada, A
+31/08/2020;Luns das Dores;Local;36018;Forcarei
+11/11/2020;San Martiño;Local;36018;Forcarei
+13/04/2020;Luns de Pascua;Local;36019;Fornelos de Montes
+10/08/2020;festas de San Lourenzo;Local;36019;Fornelos de Montes
+29/06/2020;San Pedro;Local;36020;Agolada
+30/06/2020;San Paulo;Local;36020;Agolada
+10/07/2020;;Local;36021;Gondomar
+14/08/2020;;Local;36021;Gondomar
+16/07/2020;festividade do Carme;Local;36022;Grove, O
+11/11/2020;San Martiño;Local;36022;Grove, O
+16/07/2020;Virxe do Carme;Local;36023;Guarda, A
+23/09/2020;Santa Tegra;Local;36023;Guarda, A
+21/09/2020;;Local;36024;Lalín
+22/09/2020;;Local;36024;Lalín
+27/07/2020;San Xoaquín e Santa Ana;Local;36025;Lama, A
+05/08/2020;festa das Ermidas;Local;36025;Lama, A
+16/07/2020;festividade da Virxe do Carme;Local;36026;Marín
+08/09/2020;festividade da Virxe do Porto;Local;36026;Marín
+03/02/2020;San Brais;Local;36027;Meaño
+13/04/2020;Luns de Pascua;Local;36027;Meaño
+25/02/2020;Martes de Entroido;Local;36028;Meis
+13/04/2020;Luns de Pascua (Nosa Señora das Cabezas);Local;36028;Meis
+16/07/2020;Día do Carme;Local;36029;Moaña
+11/11/2020;San Martiño;Local;36029;Moaña
+25/02/2020;Martes de Entroido;Local;36030;Mondariz
+01/06/2020;Día da Virxe da Franqueira;Local;36030;Mondariz
+11/02/2020;festividade da Nosa Señora de Lourdes;Local;36031;Mondariz-Balneario
+01/06/2020;Peregrinación ao Santuario da Franqueira;Local;36031;Mondariz-Balneario
+25/02/2020;Martes de Entroido;Local;36032;Moraña
+06/08/2020;San Salvador de Saiáns;Local;36032;Moraña
+15/06/2020;festa da Rosa;Local;36033;Mos
+07/08/2020;San Mamede;Local;36033;Mos
+29/07/2020;Santa Marta;Local;36034;Neves, As
+05/08/2020;Nosa Señora das Neves;Local;36034;Neves, As
+29/06/2020;San Pedro;Local;36035;Nigrán
+24/08/2020;San Roque;Local;36035;Nigrán
+01/06/2020;festividade da Virxe do Mar, patroa de Oia;Local;36036;Oia
+07/08/2020;San Mamede;Local;36036;Oia
+15/01/2020;San Amaro;Local;36037;Pazos de Borbén
+13/04/2020;Luns de Pascua;Local;36037;Pazos de Borbén
+26/02/2020;Mércores de Cinza;Local;36038;Pontevedra
+11/07/2020;San Bieito;Local;36038;Pontevedra
+13/07/2020;San Bieito;Local;36039;Porriño, O
+28/09/2020;Festa do Cristo;Local;36039;Porriño, O
+13/04/2020;Luns de Pascua;Local;36040;Portas
+04/05/2020;;Local;36040;Portas
+17/08/2020;;Local;36041;Poio
+24/09/2020;;Local;36041;Poio
+15/06/2020;luns seguinte á festividade do Corpus Christi;Local;36042;Ponteareas
+29/09/2020;festividade de San Miguel;Local;36042;Ponteareas
+26/02/2020;Mércores de Cinza;Local;36043;Ponte Caldelas
+02/09/2020;Mércores da Festa das Dores;Local;36043;Ponte Caldelas
+07/01/2020;San Xulián;Local;36044;Pontecesures
+06/07/2020;Festa do Carme;Local;36044;Pontecesures
+20/04/2020;Luns do Cristo;Local;36045;Redondela
+11/06/2020;Xoves da Coca;Local;36045;Redondela
+13/04/2020;Luns de Pascua;Local;36046;Ribadumia
+05/06/2020;festa do Viño Tinto;Local;36046;Ribadumia
+15/06/2020;luns seguinte ao Santo Antonio;Local;36047;Rodeiro
+08/09/2020;Nosa Señora do Faro;Local;36047;Rodeiro
+25/02/2020;Martes de Entroido;Local;36048;Rosal, O
+15/05/2020;San Isidro;Local;36048;Rosal, O
+25/02/2020;Martes de Entroido;Local;36049;Salceda de Caselas
+20/07/2020;Luns do Cristo;Local;36049;Salceda de Caselas
+15/06/2020;festividade do Santísimo Cristo da Vitoria;Local;36050;Salvaterra de Miño
+10/08/2020;festividade de San Lourenzo;Local;36050;Salvaterra de Miño
+13/04/2020;Romaría do Con;Local;36051;Sanxenxo
+04/09/2020;Santa Rosalía;Local;36051;Sanxenxo
+10/07/2020;festa do Lacón;Local;36052;Silleda
+24/08/2020;festa da Empanada da Bandeira, luns posterior;Local;36052;Silleda
+13/04/2020;Luns de Pascua;Local;36053;Soutomaior
+06/08/2020;San Salvador;Local;36053;Soutomaior
+25/02/2020;Martes de Entroido;Local;36054;Tomiño
+14/09/2020;Luns do Alivio;Local;36054;Tomiño
+25/02/2020;Martes de Entroido;Local;36055;Tui
+20/04/2020;Luns de San Telmo;Local;36055;Tui
+03/02/2020;San Brais;Local;36056;Valga
+28/08/2020;Día dos Milagres;Local;36056;Valga
+25/02/2020;Martes de Entroido;Local;36057;Vigo
+28/03/2020;Reconquista de Vigo;Local;36057;Vigo
+25/02/2020;Martes de Entroido;Local;36058;Vilaboa
+11/11/2020;San Martiño;Local;36058;Vilaboa
+10/08/2020;festividade da Nosa Sra. da Piedade;Local;36059;Vila de Cruces
+11/08/2020;;Local;36059;Vila de Cruces
+22/05/2020;Santa Rita;Local;36060;Vilagarcía de Arousa
+17/08/2020;;Local;36060;Vilagarcía de Arousa
+15/01/2020;San Mauro;Local;36061;Vilanova de Arousa
+16/09/2020;San Cibrán;Local;36061;Vilanova de Arousa
+07/01/2020;festividade de San Xulián;Local;36901;Illa de Arousa, A
+25/02/2020;Martes de Entroido;Local;36901;Illa de Arousa, A
+27/07/2020;festividade do Ecce Homo;Local;36902;Cerdedo-Cotobade
+24/08/2020;San Roque;Local;36902;Cerdedo-Cotobade
